@@ -1,7 +1,7 @@
 embreexFromBlender
 ==================
 
-Build embreex using Blender’s shared libraries.
+Build embreex using LTS Blender-4.5.x’s shared libraries.
 
 ## Build
 
